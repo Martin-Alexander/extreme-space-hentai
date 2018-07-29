@@ -1,0 +1,19 @@
+#scores {
+  width: 1400px;
+  display: flex;
+  justify-content: center;
+}
+
+#player-one-lives {
+  font-size: 60px;
+  color: blue;
+  margin-right: 10px;
+  font-family: "Helvetica";
+}
+
+#player-two-lives {
+  font-size: 60px;
+  color: red;
+  margin-left: 10px;
+  font-family: "Helvetica";
+}
